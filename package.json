@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/parikshit-thatte/my-ability-test-server/issues"
   },
-  "homepage": "https://github.com/parikshit-thatte/my-ability-test-server",
+  "homepage": "https://parikshit-thatte.github.io/my-ability-test-server",
   "dependencies": {
     "cors": "^2.8.5",
     "json-serve": "^0.1.0",
