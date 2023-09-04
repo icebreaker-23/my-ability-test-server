@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "predeploy": "npm run start",
+    "deploy": "gh-pages -d start",
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
