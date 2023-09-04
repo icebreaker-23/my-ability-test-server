@@ -60,5 +60,67 @@
         }
       ]
     }
+  ],
+  "sten_scores": [
+    {
+      "id": "9_boys",
+      "sections": [
+        {
+          "id": "VA",
+          "scores": [
+            {
+              "lower_score": 0,
+              "upper_score": 3,
+              "sten_score": 1
+            },
+            {
+              "lower_score": 4,
+              "upper_score": 4,
+              "sten_score": 2
+            },
+            {
+              "lower_score": 5,
+              "upper_score": 6,
+              "sten_score": 3
+            },
+            {
+              "lower_score": 7,
+              "upper_score": 7,
+              "sten_score": 4
+            },
+            {
+              "lower_score": 8,
+              "upper_score": 9,
+              "sten_score": 5
+            },
+            {
+              "lower_score": 10,
+              "upper_score": 10,
+              "sten_score": 6
+            },
+            {
+              "lower_score": 11,
+              "upper_score": 12,
+              "sten_score": 7
+            },
+            {
+              "lower_score": 13,
+              "upper_score": 13,
+              "sten_score": 8
+            },
+            {
+              "lower_score": 14,
+              "upper_score": 15,
+              "sten_score": 9
+            },
+            {
+              "lower_score": 16,
+              "upper_score": 25,
+              "sten_score": 10
+            }
+          ]
+        }
+      ]
+    }
   ]
 }
